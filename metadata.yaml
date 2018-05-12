@@ -1,0 +1,38 @@
+_repo: The-Interpreter--A-Tale-of-the-War_40660
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kemp-Welch, Lucy
+    alias: Kemp-Welch, Lucy E.
+    birthdate: 1869
+    deathdate: 1958
+    gutenberg_agent_id: '32524'
+    url: http://www.gutenberg.org/2009/agents/32524
+covers:
+- cover_type: archival
+  image_path: 40660-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Whyte-Melville, G. J. (George John)
+    aliases:
+    - Melville, G. J. Whyte
+    - Whyte-Melville, George John
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '3832'
+    url: http://www.gutenberg.org/2009/agents/3832
+    wikipedia: http://en.wikipedia.org/wiki/George_Whyte-Melville
+description: ''
+gutenberg_issued: '2012-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Crimean War, 1853-1856 -- Fiction'
+title: 'The Interpreter: A Tale of the War'
+url: http://www.gutenberg.org/ebooks/40660
